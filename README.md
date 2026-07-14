@@ -29,8 +29,8 @@ TERMUX TG CLI
 Установка
 
 ```bash
-git clone https://github.com/yourusername/termux-tg-cli.git
-cd termux-tg-cli
+git clone https://github.com/alexus9385-ship-it/TERMUX-TG-CLI.git
+cd TERMUX-TG-CLI
 pip install -r requirements.txt
 ```
 
